@@ -1,6 +1,6 @@
 ## Welcome to the PD headquarters!
 
-If you are an intercompany visitor, you'll find [snapshots of our department's progress], as well as information about [styles in active development.]
+If you are an intercompany visitor, you'll find [snapshots of our department's progress](snapshot), as well as information about [styles in active development.]
 
 You can use the [editor on GitHub](https://github.com/halemade/vg-pd/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
